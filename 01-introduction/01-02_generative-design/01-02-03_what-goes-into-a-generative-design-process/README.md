@@ -4,7 +4,7 @@
 
 As previously discussed, a generative design approach allows for a more integrated workflow between human and computer. 
 
-In Generative Design, this workflow involves the following stages: generative ,analyze , rank, evolve, explore, and integrate.
+In Generative Design, this workflow involves the following stages: generate ,analyze , rank, evolve, explore, and integrate.
 
 ### Generate
 
